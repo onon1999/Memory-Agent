@@ -1,0 +1,8 @@
+streamlit
+langchain
+transformers
+torch
+openai
+tiktoken
+langchain-community
+requests
